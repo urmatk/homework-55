@@ -4,3 +4,7 @@ export interface character {
     image: string;
 }
 
+export interface stringNumber {
+    name: string;
+    count: number;
+}
